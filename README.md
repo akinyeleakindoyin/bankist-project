@@ -12,8 +12,8 @@ username: ab       |      sd
 password: 1111     |      2222
 
 Once sucessfully logged in, 
-> You can see the summary of their accounts
-> There is a timer checking for inactivity
-> You can transfer and receive money between the two accounts and request for a loan
+* You can see the summary of their accounts
+* There is a timer checking for inactivity
+* You can transfer and receive money between the two accounts and request for a loan
 
 It is quite an interesting app
