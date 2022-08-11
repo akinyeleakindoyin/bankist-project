@@ -1,4 +1,7 @@
 # bankist-project
+
+[![bankist.png](https://i.postimg.cc/jjncnbfk/Screenshot-18.png)](https://postimg.cc/2qmhgg24)
+
 [Bankist](https://bankistproject-akinyele.netlify.app/)
  is a minimalist banking app for accounts holder with Bankist. The Web App is the client dashboard where they are able to make transactions within their accounts. 
 🛠: HTML5, CSS, JavaScript
