@@ -1,6 +1,6 @@
 # bankist-project
 [Bankist](https://bankistproject-akinyele.netlify.app/)
-Bankist is a minimalist banking app for accounts holder with Bankist. The Web App is the client dashboard where they are able to make transactions within their accounts. 
+ is a minimalist banking app for accounts holder with Bankist. The Web App is the client dashboard where they are able to make transactions within their accounts. 
 🛠: HTML5, CSS, JavaScript
 
 ## How it works
