@@ -8,11 +8,8 @@
 
 ## How it works
 There are two accounts that you can use to check out the functionality of this app.
-* Account 1                 Account 2
-* Akin Brain                Sammie Davis
-  * LogIn details:
-* username: ab       |      sd
-* password: 1111     |      2222
+* Account 1:  Akin Brain  ( username: ab |    password: 1111)       
+* Account 2:  Sammie Davis (username: sd |   password: 2222)  
 
 Once sucessfully logged in, 
 * You can see the summary of their accounts
